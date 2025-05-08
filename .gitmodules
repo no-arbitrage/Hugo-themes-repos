@@ -1,0 +1,12 @@
+[submodule "omega-hugo"]
+	path = omega-hugo
+	url = https://github.com/gethugothemes/omega-hugo
+[submodule "not-much"]
+	path = not-much
+	url = https://github.com/imgios/not-much
+[submodule "yourfolio"]
+	path = yourfolio
+	url = https://github.com/serg/yourfolio
+[submodule "hallo-hugo"]
+	path = hallo-hugo
+	url = https://github.com/EmielH/hallo-hugo
